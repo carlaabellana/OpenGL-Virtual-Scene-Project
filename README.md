@@ -13,5 +13,5 @@ This includes:
 The virtual scene showcases at least 10 instances of objects, crafted with a variety of shapes and unique model matrices for each. To enhance interactivity and realism, the scene is equipped with a first-person perspective (FPS) camera. Animations further enhance the dynamic nature of the environment.
 
 This project combines advanced rendering techniques with OpenGL's multi-texturing capabilities to achieve high-quality visuals and demonstrate the versatility of OpenGL in creating rich, dynamic virtual worlds.
-> .[!NOTE]
+> [!NOTE]
 > The score for this project was a 9/10
